@@ -1,0 +1,2602 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.15)  2 MAR 2026 23:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./New devs.tex"
+(New devs.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-30>
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/08/29 v24.9 The Babel package
+\babel@savecnt=\count268
+\U@D=\dimen142
+\l@unhyphenated=\language79
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count269
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.l
+df
+Language: french 2024-07-25 v3.6c French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language22). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language22). Reported on input line 92.
+\FB@stdchar=\count270
+Package babel Info: Making : an active character on input line 421.
+Package babel Info: Making ; an active character on input line 422.
+Package babel Info: Making ! an active character on input line 423.
+Package babel Info: Making ? an active character on input line 424.
+\FBguill@level=\count271
+\FBold@everypar=\toks19
+\FB@Mht=\dimen143
+\mc@charclass=\count272
+\mc@charfam=\count273
+\mc@charslot=\count274
+\std@mcc=\count275
+\dec@mcc=\count276
+\FB@parskip=\dimen144
+\listindentFB=\dimen145
+\descindentFB=\dimen146
+\labelindentFB=\dimen147
+\labelwidthFB=\dimen148
+\leftmarginFB=\dimen149
+\parindentFFN=\dimen150
+\FBfnindent=\dimen151
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel
+-french.tex
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 11.
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+Package: import 2020/04/01  v 6.2
+)
+(C:/Users/lasca/Desktop/Cours de mathématiques/(Modèle de cours et d'exercice
+s)/preambulestandard.tex
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count277
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.st
+y
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box52
+)
+\tc@llx=\dimen154
+\tc@lly=\dimen155
+\tc@urx=\dimen156
+\tc@ury=\dimen157
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen158
+\adjbox@Height=\dimen159
+\adjbox@Depth=\dimen160
+\adjbox@Totalheight=\dimen161
+\adjbox@pwidth=\dimen162
+\adjbox@pheight=\dimen163
+\adjbox@pdepth=\dimen164
+\adjbox@ptotalheight=\dimen165
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count278
+) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box53
+\sift@deathcycles=\count279
+\@vwid@loff=\dimen166
+\@vwid@roff=\dimen167
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks22
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2024/05/23 v2.17q AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen168
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen169
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count280
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count281
+\leftroot@=\count282
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count283
+\DOTSCASE@=\count284
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen170
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count285
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count286
+\dotsspace@=\muskip17
+\c@parentequation=\count287
+\dspbrk@lvl=\count288
+\tag@help=\toks24
+\row@=\count289
+\column@=\count290
+\maxfields@=\count291
+\andhelp@=\toks25
+\eqnshift@=\dimen171
+\alignsep@=\dimen172
+\tagshift@=\dimen173
+\tagwidth@=\dimen174
+\totwidth@=\dimen175
+\lineht@=\dimen176
+\@envbody=\toks26
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks28
+\thm@bodyfont=\toks29
+\thm@headfont=\toks30
+\thm@notefont=\toks31
+\thm@headpunct=\toks32
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks33
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+\col@sep=\dimen177
+\ar@mcellbox=\box56
+\extrarowheight=\dimen178
+\NC@list=\toks34
+\extratabsurround=\skip57
+\backup@length=\skip58
+\ar@cellbox=\box57
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
+Package: bm 2023/12/19 v1.2f Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/braket\braket.sty)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen179
+\captionmargin=\dimen180
+\caption@leftmargin=\dimen181
+\caption@rightmargin=\dimen182
+\caption@width=\dimen183
+\caption@indent=\dimen184
+\caption@parindent=\dimen185
+\caption@hangindent=\dimen186
+Package caption Info: Standard document class detected.
+Package caption Info: french babel package is loaded.
+)
+\c@caption@flags=\count292
+\c@continuedfloat=\count293
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/circuitikz\circuitikz.s
+ty
+Package: circuitikz 2024/08/03{} The CircuiTikz circuit drawing package version
+ 1.7.0
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks35
+\pgfutil@tempdima=\dimen187
+\pgfutil@tempdimb=\dimen188
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box58
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks36
+\pgfkeys@temptoks=\toks37
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks38
+))
+\pgf@x=\dimen189
+\pgf@y=\dimen190
+\pgf@xa=\dimen191
+\pgf@ya=\dimen192
+\pgf@xb=\dimen193
+\pgf@yb=\dimen194
+\pgf@xc=\dimen195
+\pgf@yc=\dimen196
+\pgf@xd=\dimen197
+\pgf@yd=\dimen198
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count294
+\c@pgf@countb=\count295
+\c@pgf@countc=\count296
+\c@pgf@countd=\count297
+\t@pgf@toka=\toks39
+\t@pgf@tokb=\toks40
+\t@pgf@tokc=\toks41
+\pgf@sys@id@count=\count298
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count299
+\pgfsyssoftpath@bigbuffer@items=\count300
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen199
+\pgfmath@count=\count301
+\pgfmath@box=\box59
+\pgfmath@toks=\toks42
+\pgfmath@stack@operand=\toks43
+\pgfmath@stack@operation=\toks44
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count302
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen256
+\pgf@picmaxx=\dimen257
+\pgf@picminy=\dimen258
+\pgf@picmaxy=\dimen259
+\pgf@pathminx=\dimen260
+\pgf@pathmaxx=\dimen261
+\pgf@pathminy=\dimen262
+\pgf@pathmaxy=\dimen263
+\pgf@xx=\dimen264
+\pgf@xy=\dimen265
+\pgf@yx=\dimen266
+\pgf@yy=\dimen267
+\pgf@zx=\dimen268
+\pgf@zy=\dimen269
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen270
+\pgf@path@lasty=\dimen271
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen272
+\pgf@shorten@start@additional=\dimen273
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box60
+\pgf@hbox=\box61
+\pgf@layerbox@main=\box62
+\pgf@picture@serial@count=\count303
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen274
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen275
+\pgf@pt@y=\dimen276
+\pgf@pt@temp=\dimen277
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen278
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen279
+\pgf@sys@shading@range@num=\count304
+\pgf@shadingcount=\count305
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box63
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box64
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen280
+\pgf@nodesepend=\dimen281
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen282
+\pgffor@skip=\dimen283
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count306
+\pgfplotmarksize=\dimen284
+)
+\tikz@lastx=\dimen285
+\tikz@lasty=\dimen286
+\tikz@lastxsaved=\dimen287
+\tikz@lastysaved=\dimen288
+\tikz@lastmovetox=\dimen289
+\tikz@lastmovetoy=\dimen290
+\tikzleveldistance=\dimen291
+\tikzsiblingdistance=\dimen292
+\tikz@figbox=\box65
+\tikz@figbox@bg=\box66
+\tikz@tempbox=\box67
+\tikz@tempbox@bg=\box68
+\tikztreelevel=\count307
+\tikznumberofchildren=\count308
+\tikznumberofcurrentchild=\count309
+\tikz@fig@count=\count310
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count311
+\pgfmatrixcurrentcolumn=\count312
+\pgf@matrix@numberofcolumns=\count313
+)
+\tikz@expandcount=\count314
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowinset=\dimen293
+\pgfarrowlength=\dimen294
+\pgfarrowwidth=\dimen295
+\pgfarrowlinewidth=\dimen296
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarybending.code.tex
+File: tikzlibrarybending.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+bending.code.tex
+File: pgfmodulebending.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+nonlineartransformations.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgftransformnonlinearflatness=\dimen297
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+arycurvilinear.code.tex
+File: pgflibrarycurvilinear.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@curvilinear@time@a=\dimen298
+\pgf@curvilinear@length@a=\dimen299
+\pgf@curvilinear@length@b=\dimen300
+\pgf@curvilinear@length@c=\dimen301
+\pgf@curvilinear@length@d=\dimen302
+)
+\pgf@arrows@the@rigidity=\dimen303
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfpu.code.tex
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfpu.code.tex))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirc.de
+fines.tex
+\pgf@circ@count@a=\count315
+\pgf@circ@count@b=\count316
+\pgf@circ@count@c=\count317
+\pgf@circ@res@up=\dimen304
+\pgf@circ@res@down=\dimen305
+\pgf@circ@res@zero=\dimen306
+\pgf@circ@res@left=\dimen307
+\pgf@circ@res@right=\dimen308
+\pgf@circ@res@other=\dimen309
+\pgf@circ@res@step=\dimen310
+\pgf@circ@res@temp=\dimen311
+\pgf@circ@Rlen=\dimen312
+\pgf@circ@scaled@Rlen=\dimen313
+\pgfstartlinewidth=\dimen314
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircuti
+ls.tex
+\ctikz@scratchbox=\box69
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircpat
+h.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircsha
+pes.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmon
+opoles.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircbip
+oles.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirctri
+poles.tex
+\pgf@circ@res@count=\count318
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircqua
+dpoles.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmul
+tipoles.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirclab
+el.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircvol
+tage.tex
+\pgfcirc@labelshift=\dimen315
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirccur
+rent.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircflo
+w.tex))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
+\CommentStream=\write4
+
+Excluding comment 'comment')
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/contour\contour.sty
+Package: contour 2004/11/18 v2.14 Print contoured text (HH, MH)
+\con@length=\skip59
+
+Loading configuration file `contour.cfg'.
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/contour\contour.cfg
+File: contour.cfg 2004/11/18 v2.14 Print contoured text (HH, MH)
+)
+contour: Using driver file `pdftex.cnt'.
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/contour\pdftex.cnt
+File: pdftex.cnt 2004/11/18 v2.14 Print contoured text (HH, MH)
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/dashbox\dashbox.sty
+Package: dashbox 2001/12/11 v1.14 Dashed and layered boxes
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count319
+\calc@Bcount=\count320
+\calc@Adimen=\dimen316
+\calc@Bdimen=\dimen317
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count321
+\calc@Cskip=\skip62
+)
+\dashlength=\skip63
+\dashdash=\skip64
+\layersize=\skip65
+\d@shedsavebox=\box70
+\d@shedboxwidth=\skip66
+\d@shedboxtotalheight=\skip67
+\l@yersavebox=\box71
+\l@yerwidth=\skip68
+\l@yerboxwidth=\skip69
+\l@yertotalheight=\skip70
+\l@yerlineheight=\skip71
+\l@yervoffset=\skip72
+\c@l@yercount=\count322
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/doublestroke\dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks47
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks48
+\labelindent=\skip73
+\enit@outerparindent=\dimen318
+\enit@toks=\toks49
+\enit@inbox=\box72
+\enit@count@id=\count323
+\enitdp@description=\count324
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/eurosym\eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box73
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-08-30 L3 programming layer (loader) 
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count325
+\l__pdf_internal_box=\box74
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/faktor\faktor.sty
+Package: faktor 2006/04/05 v0.1b Faktor-Ringe, -Gruppen, -Raeume (PE)
+\faktor@zaehlerhoehe=\skip74
+\faktor@nennerhoehe=\skip75
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/fancybox\fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box75
+\shadowsize=\dimen319
+\@Sbox=\box76
+\do@VerbBox=\toks50
+\the@fancyput=\toks51
+\this@fancyput=\toks52
+\EndVerbatimTokens=\toks53
+\Verbatim@Outfile=\write5
+\Verbatim@Infile=\read4
+) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip76
+\f@nch@O@elh=\skip77
+\f@nch@O@erh=\skip78
+\f@nch@O@olh=\skip79
+\f@nch@O@orh=\skip80
+\f@nch@O@elf=\skip81
+\f@nch@O@erf=\skip82
+\f@nch@O@olf=\skip83
+\f@nch@O@orf=\skip84
+) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count326
+\float@exts=\toks54
+\float@box=\box77
+\@float@everytoks=\toks55
+\@floatcapt=\box78
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesom
+e5.sty
+Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesom
+e5-generic-helper.sty
+Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fon
+tawesome5
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesom
+e5-mapping.def)))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2023/07/05 v6.0f a miscellany of footnote facilities
+\FN@temptoken=\toks56
+\footnotemargin=\dimen320
+\@outputbox@depth=\dimen321
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\perpage.sty
+Package: perpage 2014/10/25 2.0 Reset/sort counters per page
+\c@abspage=\count327
+)
+\c@pp@a@footnote=\count328
+Package footmisc Info: Declaring symbol style bringhurst on input line 696.
+Package footmisc Info: Declaring symbol style chicago on input line 704.
+Package footmisc Info: Declaring symbol style wiley on input line 713.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 724.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 744.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 765
+.
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/framed\framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip85
+\fb@frw=\dimen322
+\fb@frh=\dimen323
+\FrameRule=\dimen324
+\FrameSep=\dimen325
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count329
+\Gm@cntv=\count330
+\c@Gm@tempcnt=\count331
+\Gm@bindingoffset=\dimen326
+\Gm@wd@mp=\dimen327
+\Gm@odd@mp=\dimen328
+\Gm@even@mp=\dimen329
+\Gm@layoutwidth=\dimen330
+\Gm@layoutheight=\dimen331
+\Gm@layouthoffset=\dimen332
+\Gm@layoutvoffset=\dimen333
+\Gm@dimlist=\toks57
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/fonts/ifsym\ifsym.sty
+Package: ifsym 2000/04/18 I.Kloeckl
+\c@ifsymcnt=\count332
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/imakeidx\imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
+nous mode
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2024/05/23 v1.9h multicolumn formatting (FMi)
+\c@tracingmulticols=\count333
+\mult@box=\box79
+\multicol@leftmargin=\dimen334
+\c@unbalance=\count334
+\c@collectmore=\count335
+\doublecol@number=\count336
+\multicoltolerance=\count337
+\multicolpretolerance=\count338
+\full@width=\dimen335
+\page@free=\dimen336
+\premulticols=\dimen337
+\postmulticols=\dimen338
+\multicolsep=\skip86
+\multicolbaselineskip=\skip87
+\partial@page=\box80
+\last@line=\box81
+\mc@boxedresult=\box82
+\maxbalancingoverflow=\dimen339
+\mult@rightbox=\box83
+\mult@grightbox=\box84
+\mult@firstbox=\box85
+\mult@gfirstbox=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\c@minrows=\count339
+\c@columnbadness=\count340
+\c@finalcolumnbadness=\count341
+\last@try=\dimen340
+\multicolovershoot=\dimen341
+\multicolundershoot=\dimen342
+\mult@nat@firstbox=\box123
+\colbreak@box=\box124
+\mc@col@check@num=\count342
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count343
+\lst@gtempboxa=\box125
+\lst@token=\toks58
+\lst@length=\count344
+\lst@currlwidth=\dimen343
+\lst@column=\count345
+\lst@pos=\count346
+\lst@lostspace=\dimen344
+\lst@width=\dimen345
+\lst@newlines=\count347
+\lst@lineno=\count348
+\lst@maxwidth=\dimen346
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/05/25 1.10b (Carsten Heinz)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/05/25 1.10b (Carsten Heinz)
+\c@lstnumber=\count349
+\lst@skipnumbers=\count350
+\lst@framebox=\box126
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/05/25 1.10b listings configuration
+))
+Package: listings 2024/05/25 1.10b (Carsten Heinz)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/manfnt\manfnt.sty
+Package: manfnt 1999/07/010.2LaTeX2e manfnt package
+\dbend@height=\skip88
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/marginnote\marginnote.s
+ty
+Package: marginnote 2018/08/09 1.4b non floating margin notes for LaTeX
+\c@mn@abspage=\count351
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/mathdots\mathdots.sty
+Package: mathdots 2014/06/11 v0.9 Improve and add various macros for dots in ma
+th.
+\MDo@unit=\dimen347
+\MDo@dotsbox=\box127
+\MDoprekern=\muskip18
+\MDopostkern=\muskip19
+\MDodotkern=\muskip20
+) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup9
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2024/03/11 v1.30 mathematical typesetting tools
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count352
+\l_MT_multwidth_dim=\dimen348
+\origjot=\skip89
+\l_MT_shortvdotswithinadjustabove_dim=\dimen349
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen350
+\l_MT_above_intertext_sep=\dimen351
+\l_MT_below_intertext_sep=\dimen352
+\l_MT_above_shortintertext_sep=\dimen353
+\l_MT_below_shortintertext_sep=\dimen354
+\xmathstrut@box=\box128
+\xmathstrut@dim=\dimen355
+) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count353
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+Package zref Info: New property: abspage on input line 67.
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip90
+\c@mdf@globalstyle@cnt=\count354
+\mdf@skipabove@length=\skip91
+\mdf@skipbelow@length=\skip92
+\mdf@leftmargin@length=\skip93
+\mdf@rightmargin@length=\skip94
+\mdf@innerleftmargin@length=\skip95
+\mdf@innerrightmargin@length=\skip96
+\mdf@innertopmargin@length=\skip97
+\mdf@innerbottommargin@length=\skip98
+\mdf@splittopskip@length=\skip99
+\mdf@splitbottomskip@length=\skip100
+\mdf@outermargin@length=\skip101
+\mdf@innermargin@length=\skip102
+\mdf@linewidth@length=\skip103
+\mdf@innerlinewidth@length=\skip104
+\mdf@middlelinewidth@length=\skip105
+\mdf@outerlinewidth@length=\skip106
+\mdf@roundcorner@length=\skip107
+\mdf@footenotedistance@length=\skip108
+\mdf@userdefinedwidth@length=\skip109
+\mdf@needspace@length=\skip110
+\mdf@frametitleaboveskip@length=\skip111
+\mdf@frametitlebelowskip@length=\skip112
+\mdf@frametitlerulewidth@length=\skip113
+\mdf@frametitleleftmargin@length=\skip114
+\mdf@frametitlerightmargin@length=\skip115
+\mdf@shadowsize@length=\skip116
+\mdf@extratopheight@length=\skip117
+\mdf@subtitleabovelinewidth@length=\skip118
+\mdf@subtitlebelowlinewidth@length=\skip119
+\mdf@subtitleaboveskip@length=\skip120
+\mdf@subtitlebelowskip@length=\skip121
+\mdf@subtitleinneraboveskip@length=\skip122
+\mdf@subtitleinnerbelowskip@length=\skip123
+\mdf@subsubtitleabovelinewidth@length=\skip124
+\mdf@subsubtitlebelowlinewidth@length=\skip125
+\mdf@subsubtitleaboveskip@length=\skip126
+\mdf@subsubtitlebelowskip@length=\skip127
+\mdf@subsubtitleinneraboveskip@length=\skip128
+\mdf@subsubtitleinnerbelowskip@length=\skip129
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\md-frame-1.mdf
+File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
+)
+\mdf@frametitlebox=\box129
+\mdf@footnotebox=\box130
+\mdf@splitbox@one=\box131
+\mdf@splitbox@two=\box132
+\mdf@splitbox@save=\box133
+\mdfsplitboxwidth=\skip130
+\mdfsplitboxtotalwidth=\skip131
+\mdfsplitboxheight=\skip132
+\mdfsplitboxdepth=\skip133
+\mdfsplitboxtotalheight=\skip134
+\mdfframetitleboxwidth=\skip135
+\mdfframetitleboxtotalwidth=\skip136
+\mdfframetitleboxheight=\skip137
+\mdfframetitleboxdepth=\skip138
+\mdfframetitleboxtotalheight=\skip139
+\mdffootnoteboxwidth=\skip140
+\mdffootnoteboxtotalwidth=\skip141
+\mdffootnoteboxheight=\skip142
+\mdffootnoteboxdepth=\skip143
+\mdffootnoteboxtotalheight=\skip144
+\mdftotallinewidth=\skip145
+\mdfboundingboxwidth=\skip146
+\mdfboundingboxtotalwidth=\skip147
+\mdfboundingboxheight=\skip148
+\mdfboundingboxdepth=\skip149
+\mdfboundingboxtotalheight=\skip150
+\mdf@freevspace@length=\skip151
+\mdf@horizontalwidthofbox@length=\skip152
+\mdf@verticalmarginwhole@length=\skip153
+\mdf@horizontalspaceofbox=\skip154
+\mdfsubtitleheight=\skip155
+\mdfsubsubtitleheight=\skip156
+\c@mdfcountframes=\count355
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count356
+\c@mdf@env@i=\count357
+\c@mdf@env@ii=\count358
+\c@mdf@zref@counter=\count359
+Package zref Info: New property: mdf@pagevalue on input line 895.
+) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/mhchem\mhchem.sty
+Package: mhchem 2024/01/29 v4.10 for typesetting chemical formulae
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/chemgreek\chemgreek.sty
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count360
+\g__chemgreek_tmpa_int=\count361
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count362
+\__mhchem_arrow_extPgfLength_skip=\skip157
+\mhchem@minispace@tmp=\skip158
+\mhchem@minibackspace@tmp=\skip159
+\mhchem@bondwidth=\skip160
+\mhchem@bondheight=\skip161
+\mhchem@smallbondwidth@tmpA=\skip162
+\mhchem@smallbondwidth@tmpB=\skip163
+\mhchem@smallbondwidth=\skip164
+\mhchem@bondtmp@minussidebearingleft=\skip165
+\mhchem@bondtmp@minussidebearingright=\skip166
+\l__mhchem_option_version_int=\count363
+\mhchem@option@minusmathsidebearingleft=\dimen356
+\mhchem@option@minusmathsidebearingright=\dimen357
+\mhchem@option@minustextsidebearingleft=\dimen358
+\mhchem@option@minustextsidebearingright=\dimen359
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
+\MT@toks=\toks59
+\MT@tempbox=\box134
+\MT@count=\count364
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1061.
+LaTeX Info: Redefining \leftprotrusion on input line 1062.
+\MT@prot@toks=\toks60
+LaTeX Info: Redefining \rightprotrusion on input line 1081.
+LaTeX Info: Redefining \textls on input line 1392.
+\MT@outer@kern=\dimen360
+LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
+\MT@listname@count=\count365
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def
+File: microtype-pdftex.def 2024/03/29 v3.1b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip167
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
+)) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/multido\multido.sty
+Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
+
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/multido\multido.tex
+ v1.42, 2010/05/14 <tvz>
+\multido@count=\count366
+\multidocount=\count367
+\multido@stuff=\toks61
+)
+File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/nicematrix\nicematrix.s
+ty
+Package: nicematrix 2024/08/22 v6.28c Enhanced arrays with the help of PGF/TikZ
+
+\g__nicematrix_env_int=\count368
+\g__nicematrix_NiceMatrixBlock_int=\count369
+\g__nicematrix_notes_caption_int=\count370
+\l__nicematrix_columns_width_dim=\dimen361
+\l__nicematrix_col_width_dim=\dimen362
+\g__nicematrix_row_total_int=\count371
+\g__nicematrix_col_total_int=\count372
+\g__nicematrix_last_row_node_int=\count373
+\l__nicematrix_key_nb_rows_int=\count374
+\g__nicematrix_blocks_wd_dim=\dimen363
+\g__nicematrix_blocks_ht_dim=\dimen364
+\g__nicematrix_blocks_dp_dim=\dimen365
+\l__nicematrix_width_dim=\dimen366
+\l__nicematrix_tabular_width_dim=\dimen367
+\l__nicematrix_rule_width_dim=\dimen368
+\l__nicematrix_old_iRow_int=\count375
+\l__nicematrix_old_jCol_int=\count376
+\g__nicematrix_total_X_weight_int=\count377
+\l__nicematrix_X_columns_dim=\dimen369
+\l__nicematrix_x_initial_dim=\dimen370
+\l__nicematrix_y_initial_dim=\dimen371
+\l__nicematrix_x_final_dim=\dimen372
+\l__nicematrix_y_final_dim=\dimen373
+\l__nicematrix_tmpc_dim=\dimen374
+\l__nicematrix_tmpd_dim=\dimen375
+\g__nicematrix_dp_row_zero_dim=\dimen376
+\g__nicematrix_ht_row_zero_dim=\dimen377
+\g__nicematrix_ht_row_one_dim=\dimen378
+\g__nicematrix_dp_ante_last_row_dim=\dimen379
+\g__nicematrix_ht_last_row_dim=\dimen380
+\g__nicematrix_dp_last_row_dim=\dimen381
+\g__nicematrix_width_last_col_dim=\dimen382
+\g__nicematrix_width_first_col_dim=\dimen383
+\l__nicematrix_row_min_int=\count378
+\l__nicematrix_row_max_int=\count379
+\l__nicematrix_col_min_int=\count380
+\l__nicematrix_col_max_int=\count381
+\l__nicematrix_start_int=\count382
+\l__nicematrix_end_int=\count383
+\l__nicematrix_local_start_int=\count384
+\l__nicematrix_local_end_int=\count385
+\g__nicematrix_static_num_of_col_int=\count386
+\l__nicematrix_rounded_corners_dim=\dimen384
+\l__nicematrix_tab_rounded_corners_dim=\dimen385
+\l__nicematrix_offset_dim=\dimen386
+\l__nicematrix_line_width_dim=\dimen387
+\g__nicematrix_block_box_int=\count387
+\l__nicematrix_submatrix_extra_height_dim=\dimen388
+\l__nicematrix_submatrix_left_xshift_dim=\dimen389
+\l__nicematrix_submatrix_right_xshift_dim=\dimen390
+\l__nicematrix_first_row_int=\count388
+\l__nicematrix_first_col_int=\count389
+\l__nicematrix_last_row_int=\count390
+\l__nicematrix_last_col_int=\count391
+\c@tabularnote=\count392
+\g__nicematrix_tabularnote_int=\count393
+\c@nicematrix_draft=\count394
+\l__nicematrix_cell_space_top_limit_dim=\dimen391
+\l__nicematrix_cell_space_bottom_limit_dim=\dimen392
+\l__nicematrix_xdots_inter_dim=\dimen393
+\l__nicematrix_xdots_shorten_start_dim=\dimen394
+\l__nicematrix_xdots_shorten_end_dim=\dimen395
+\l__nicematrix_xdots_radius_dim=\dimen396
+\l__nicematrix_notes_above_space_dim=\dimen397
+\l__nicematrix_left_margin_dim=\dimen398
+\l__nicematrix_right_margin_dim=\dimen399
+\l__nicematrix_extra_left_margin_dim=\dimen400
+\l__nicematrix_extra_right_margin_dim=\dimen401
+\c__nicematrix_max_l_dim=\dimen402
+\l__nicematrix_position_int=\count395
+\l__nicematrix_multiplicity_int=\count396
+\l__nicematrix_brace_yshift_dim=\dimen403
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/fonts/old-arrows\old-arrows.s
+ty
+Package: old-arrows 2017/01/05 v2.0 Old Arrows
+\symoasy=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `oasy' in version `normal'
+(Font)                  OMS/oasy/m/n --> OMS/oasy/m/n on input line 90.
+LaTeX Font Info:    Overwriting symbol font `oasy' in version `bold'
+(Font)                  OMS/oasy/m/n --> OMS/oasy/b/n on input line 91.
+LaTeX Font Info:    Redeclaring math symbol \leftarrow on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \rightarrow on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \leftrightarrow on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \nearrow on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \searrow on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \nwarrow on input line 100.
+LaTeX Font Info:    Redeclaring math symbol \swarrow on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \mapstochar on input line 102.
+LaTeX Font Info:    Redeclaring math delimiter \uparrow on input line 105.
+LaTeX Font Info:    Redeclaring math delimiter \downarrow on input line 106.
+LaTeX Font Info:    Redeclaring math delimiter \updownarrow on input line 107.
+LaTeX Info: Redefining \longrightarrow on input line 117.
+LaTeX Info: Redefining \longleftarrow on input line 119.
+\symlmsy=\mathgroup11
+LaTeX Font Info:    Overwriting symbol font `lmsy' in version `normal'
+(Font)                  OMS/lmsy/m/n --> OMS/lmsy/m/n on input line 235.
+LaTeX Font Info:    Overwriting symbol font `lmsy' in version `bold'
+(Font)                  OMS/lmsy/m/n --> OMS/lmsy/b/n on input line 235.
+) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/shadow\shadow.sty
+Package: shadow 2003/02/19 v1.3 shadow boxes (M.O.)
+\txtwdth=\dimen404
+\sht=\dimen405
+\shw=\dimen406
+\shbox=\box135
+\sboxsep=\dimen407
+\sboxrule=\dimen408
+\sdim=\dimen409
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks62
+\SOUL@lasttoken=\toks63
+\SOUL@syllable=\toks64
+\SOUL@cmds=\toks65
+\SOUL@buffer=\toks66
+\SOUL@token=\toks67
+\SOUL@syllgoal=\dimen410
+\SOUL@syllwidth=\dimen411
+\SOUL@charkern=\dimen412
+\SOUL@hyphkern=\dimen413
+\SOUL@dimen=\dimen414
+\SOUL@dimeni=\dimen415
+\SOUL@minus=\count397
+\SOUL@comma=\count398
+\SOUL@apo=\count399
+\SOUL@grave=\count400
+\SOUL@spaceskip=\skip168
+\SOUL@ttwidth=\dimen416
+\SOUL@uldp=\dimen417
+\SOUL@ulht=\dimen418
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup12
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count401
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count402
+) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen419
+\TX@old@table=\dimen420
+\TX@old@col=\dimen421
+\TX@target=\dimen422
+\TX@delta=\dimen423
+\TX@cols=\count403
+\TX@ftn=\toks68
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2024/07/10 version 6.3.0 text color boxes
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks69
+\verbatim@line=\toks70
+\verbatim@in@stream=\read5
+)
+\tcb@titlebox=\box136
+\tcb@upperbox=\box137
+\tcb@lowerbox=\box138
+\tcb@phantombox=\box139
+\c@tcbbreakpart=\count404
+\c@tcblayer=\count405
+\c@tcolorbox@number=\count406
+\l__tcobox_tmpa_box=\box140
+\l__tcobox_tmpa_dim=\dimen424
+\tcb@temp=\box141
+\tcb@temp=\box142
+\tcb@temp=\box143
+\tcb@temp=\box144
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbraster.cod
+e.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.3.0'
+\c@tcbrastercolumn=\count407
+\c@tcbrasterrow=\count408
+\c@tcbrasternum=\count409
+\c@tcbraster=\count410
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code
+.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.3.0'
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill.image
+.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill-commo
+n.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfil
+l.image.code.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box145
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsa
+w.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.3.0'
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.
+code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.3.0'
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/pdfcol\pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
+)
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box146
+\tcb@totalupperbox=\box147
+\tcb@totallowerbox=\box148
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhooks.code
+.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.3.0'
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheorems.c
+ode.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.3.0'
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitting.co
+de.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.3.0'
+\tcbfitdim=\dimen425
+\tcb@lowerfitdim=\dimen426
+\tcb@upperfitdim=\dimen427
+\tcb@cur@hbadness=\count411
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsut
+f8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.3.0'
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.c
+ode.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.3.0'
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsco
+re.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.3.0'
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing
+.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.3.0'
+)
+\c@tcblisting=\count412
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/listingsutf8\listingsut
+f8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+))))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbexternal.c
+ode.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.3.0'
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbmagazine.c
+ode.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.3.0'
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbvignette.c
+ode.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.3.0'
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfadings.code.tex
+File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbposter.cod
+e.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.3.0'
+)) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tikz-cd\tikz-cd.sty
+Package: tikz-cd 2021/05/04 v1.0 Commutative diagrams with TikZ
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tikz-cd\tikzlibrarycd.c
+ode.tex
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryquotes.code.tex
+File: tikzlibraryquotes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tkz-tab\tkz-tab.sty
+Package: tkz-tab 2020/04/29 v2.12c variations (ctan version)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.code.tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen428
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+arypatterns.code.tex
+File: pgflibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+\tkz@XF=\dimen429
+\tkz@YF=\dimen430
+\c@tkz@cnt@line=\count413
+\c@tkz@cnt@lg=\count414
+\c@tkz@cnt@cl=\count415
+\c@tkz@cnt@pred=\count416
+\c@tkz@cnt@temp=\count417
+\c@tkz@cnt@arrow=\count418
+\c@tkz@cnt@zone=\count419
+\c@tkz@cnt@lgnext=\count420
+\c@tkz@cnt@clnext=\count421
+\c@tkz@cnt@pair=\count422
+\c@tkz@cnt@impair=\count423
+\c@tkz@cnt@aw=\count424
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tikzsymbols\tikzsymbols
+.sty
+Package: tikzsymbols 2021/12/14 v4.12a Some symbols created using tikz and LaTe
+X3.
+ (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+decorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen431
+\pgfdecoratedremainingdistance=\dimen432
+\pgfdecoratedinputsegmentcompleteddistance=\dimen433
+\pgfdecoratedinputsegmentremainingdistance=\dimen434
+\pgf@decorate@distancetomove=\dimen435
+\pgf@decorate@repeatstate=\count425
+\pgfdecorationsegmentamplitude=\dimen436
+\pgfdecorationsegmentlength=\dimen437
+)
+\tikz@lib@dec@box=\box149
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytrees.code.tex
+File: tikzlibrarytrees.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+\l__tikzsymbols_Moai_thickness_dim=\dimen438
+\l__tikzsymbols_Kochtopf_nr_arguments_int=\count426
+\l__tikzsymbols_Bratpfanne_nr_arguments_int=\count427
+\l__tikzsymbols_Schneebesen_nr_arguments_int=\count428
+\l__tikzsymbols_Sieb_nr_arguments_int=\count429
+\l__tikzsymbols_Purierstab_nr_arguments_int=\count430
+\l__tikzsymbols_Dreizack_nr_arguments_int=\count431
+\l__tikzsymbols_Backblech_nr_arguments_int=\count432
+\l__tikzsymbols_Ofen_nr_arguments_int=\count433
+\l__tikzsymbols_Pfanne_nr_arguments_int=\count434
+\l__tikzsymbols_Herd_nr_arguments_int=\count435
+\l__tikzsymbols_Saftpresse_nr_arguments_int=\count436
+\l__tikzsymbols_Schussel_nr_arguments_int=\count437
+\l__tikzsymbols_Schaler_nr_arguments_int=\count438
+\l__tikzsymbols_Reibe_nr_arguments_int=\count439
+\l__tikzsymbols_Flasche_nr_arguments_int=\count440
+\l__tikzsymbols_Nudelholz_nr_arguments_int=\count441
+\l__tikzsymbols_Knoblauchpresse_nr_arguments_int=\count442
+\l__tikzsymbols_Sadey_nr_arguments_int=\count443
+\l__tikzsymbols_dSadey_nr_arguments_int=\count444
+\l__tikzsymbols_Changey_nr_arguments_int=\count445
+\l__tikzsymbols_dChangey_nr_arguments_int=\count446
+\l__tikzsymbols_cChangey_nr_arguments_int=\count447
+\l__tikzsymbols_dcChangey_nr_arguments_int=\count448
+\l__tikzsymbols_Annoey_nr_arguments_int=\count449
+\l__tikzsymbols_dAnnoey_nr_arguments_int=\count450
+\l__tikzsymbols_Smiley_nr_arguments_int=\count451
+\l__tikzsymbols_dSmiley_nr_arguments_int=\count452
+\l__tikzsymbols_Laughey_nr_arguments_int=\count453
+\l__tikzsymbols_dLaughey_nr_arguments_int=\count454
+\l__tikzsymbols_Neutrey_nr_arguments_int=\count455
+\l__tikzsymbols_dNeutrey_nr_arguments_int=\count456
+\l__tikzsymbols_Winkey_nr_arguments_int=\count457
+\l__tikzsymbols_oldWinkey_nr_arguments_int=\count458
+\l__tikzsymbols_dWinkey_nr_arguments_int=\count459
+\l__tikzsymbols_olddWinkey_nr_arguments_int=\count460
+\l__tikzsymbols_Sey_nr_arguments_int=\count461
+\l__tikzsymbols_dSey_nr_arguments_int=\count462
+\l__tikzsymbols_Xey_nr_arguments_int=\count463
+\l__tikzsymbols_dXey_nr_arguments_int=\count464
+\l__tikzsymbols_Innocey_nr_arguments_int=\count465
+\l__tikzsymbols_wInnocey_nr_arguments_int=\count466
+\l__tikzsymbols_dInnocey_nr_arguments_int=\count467
+\l__tikzsymbols_Cooley_nr_arguments_int=\count468
+\l__tikzsymbols_dCooley_nr_arguments_int=\count469
+\l__tikzsymbols_Tongey_nr_arguments_int=\count470
+\l__tikzsymbols_dTongey_nr_arguments_int=\count471
+\l__tikzsymbols_Nursey_nr_arguments_int=\count472
+\l__tikzsymbols_dNursey_nr_arguments_int=\count473
+\l__tikzsymbols_Vomey_nr_arguments_int=\count474
+\l__tikzsymbols_dVomey_nr_arguments_int=\count475
+\l__tikzsymbols_Walley_nr_arguments_int=\count476
+\l__tikzsymbols_rWalley_nr_arguments_int=\count477
+\l__tikzsymbols_dWalley_nr_arguments_int=\count478
+\l__tikzsymbols_drWalley_nr_arguments_int=\count479
+\l__tikzsymbols_Cat_nr_arguments_int=\count480
+\l__tikzsymbols_SchrodingersCat_nr_arguments_int=\count481
+\l__tikzsymbols_Ninja_nr_arguments_int=\count482
+\l__tikzsymbols_dNinja_nr_arguments_int=\count483
+\l__tikzsymbols_Sleepey_nr_arguments_int=\count484
+\l__tikzsymbols_dSleepey_nr_arguments_int=\count485
+\l__tikzsymbols_Maskey_nr_arguments_int=\count486
+\l__tikzsymbols_NiceReapey_nr_arguments_int=\count487
+\l__tikzsymbols_Strichmaxerl_nr_arguments_int=\count488
+\l__tikzsymbols_Person_nr_arguments_int=\count489
+\l__tikzsymbols_Heart_nr_arguments_int=\count490
+\l__tikzsymbols_dHeart_nr_arguments_int=\count491
+\l__tikzsymbols_HeartBroken_nr_arguments_int=\count492
+\l__tikzsymbols_Candle_nr_arguments_int=\count493
+\l__tikzsymbols_Fire_nr_arguments_int=\count494
+\l__tikzsymbols_Coffeecup_nr_arguments_int=\count495
+\l__tikzsymbols_Chair_nr_arguments_int=\count496
+\l__tikzsymbols_Bed_nr_arguments_int=\count497
+\l__tikzsymbols_Tribar_nr_arguments_int=\count498
+\l__tikzsymbols_Moai_nr_arguments_int=\count499
+\l__tikzsymbols_Snowman_nr_arguments_int=\count500
+\l__tikzsymbols_BasicTree_nr_arguments_int=\count501
+\l__tikzsymbols_WorstTree_nr_arguments_int=\count502
+\l__tikzsymbols_Springtree_nr_arguments_int=\count503
+\l__tikzsymbols_Summertree_nr_arguments_int=\count504
+\l__tikzsymbols_Autumntree_nr_arguments_int=\count505
+\l__tikzsymbols_Wintertree_nr_arguments_int=\count506
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/truncate\truncate.sty
+Package: truncate 2001/08/20  ver 3.6
+\@Trunc@RestHyph=\toks71
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/was\upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup13
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/vmargin\vmargin.sty
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+\PaperWidth=\dimen439
+\PaperHeight=\dimen440
+) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xy.sty
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xy.tex
+Bootstrap'ing: catcodes, docmode,
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyrecat.tex)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyidioms.tex)
+
+ Xy-pic version 3.8.9 <2013/10/06>
+ Copyright (c) 1991-2013 by Kristoffer H. Rose <krisrose@tug.org> and others
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state,
+\X@c=\dimen441
+\Y@c=\dimen442
+\U@c=\dimen443
+\D@c=\dimen444
+\L@c=\dimen445
+\R@c=\dimen446
+\Edge@c=\toks72
+\X@p=\dimen447
+\Y@p=\dimen448
+\U@p=\dimen449
+\D@p=\dimen450
+\L@p=\dimen451
+\R@p=\dimen452
+\Edge@p=\toks73
+\X@origin=\dimen453
+\Y@origin=\dimen454
+\X@xbase=\dimen455
+\Y@xbase=\dimen456
+\X@ybase=\dimen457
+\Y@ybase=\dimen458
+\X@min=\dimen459
+\Y@min=\dimen460
+\X@max=\dimen461
+\Y@max=\dimen462
+\lastobjectbox@=\box150
+\zerodotbox@=\box151
+\almostz@=\dimen463
+ direction,
+\d@X=\dimen464
+\d@Y=\dimen465
+\K@=\count507
+\KK@=\count508
+\Direction=\count509
+\K@dXdY=\dimen466
+\K@dYdX=\dimen467
+\xyread@=\read6
+\xywrite@=\write6
+\csp@=\count510
+\quotPTK@=\dimen468
+
+utility macros; pictures: \xy, positions,
+\swaptoks@@=\toks74
+\connectobjectbox@@=\box152
+ objects,
+\styletoks@=\toks75
+ decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+Package: xy 2013/10/06 Xy-pic version 3.8.9
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyall.tex
+ Xy-pic option: All features v.3.8
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.12 curve,
+\crv@cnt@=\count511
+\crvpts@=\toks76
+\splinebox@=\box153
+\splineval@=\dimen469
+\splinedepth@=\dimen470
+\splinetol@=\dimen471
+\splinelength@=\dimen472
+ circles,
+\L@=\dimen473
+ loaded)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyframe.tex
+ Xy-pic option: Frame and Bracket extension v.3.14 loaded)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xycmtip.tex
+ Xy-pic option: Computer Modern tip extension v.3.7
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xytips.tex
+ Xy-pic option: More Tips extension v.3.11 loaded) loaded)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyline.tex
+ Xy-pic option: Line styles extension v.3.10
+\xylinethick@=\dimen474
+ loaded)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyrotate.tex
+ Xy-pic option: Rotate and Scale extension v.3.8 loaded)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xycolor.tex
+ Xy-pic option: Colour extension v.3.11 loaded)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xymatrix.tex
+ Xy-pic option: Matrix feature v.3.14
+\Row=\count512
+\Col=\count513
+\queue@=\toks77
+\queue@@=\toks78
+\qcount@=\count514
+\qcount@@=\count515
+\matrixsize@=\count516
+ loaded)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xygraph.tex
+ Xy-pic option: Graph feature v.3.11 loaded) loaded)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xypdf.tex
+ Xy-pic option: PDF driver v.1.7 Xy-pic pdf driver: `color' extension support
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xypdf-co.tex
+loaded) Xy-pic pdf driver: `curve' extension support
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xypdf-cu.tex
+loaded) Xy-pic pdf driver: `frame' extension support
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xypdf-fr.tex
+loaded) Xy-pic pdf driver: `line' extension support
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xypdf-li.tex
+loaded) Xy-pic pdf driver: `rotate' extension support
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xypdf-ro.tex
+loaded) loaded))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen475
+\WF@size=\dimen476
+\c@WF@wrappedlines=\count517
+\WF@box=\box154
+\WF@everypar=\toks79
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarybabel.code.tex
+File: tikzlibrarybabel.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshadings.code.tex
+File: tikzlibraryshadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryshadings.code.tex
+File: pgflibraryshadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.callouts.code.tex
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.callouts.code.tex))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodepartlowerbox=\box155
+\pgfnodeparttwobox=\box156
+\pgfnodepartthreebox=\box157
+\pgfnodepartfourbox=\box158
+\pgfnodeparttwentybox=\box159
+\pgfnodepartnineteenbox=\box160
+\pgfnodeparteighteenbox=\box161
+\pgfnodepartseventeenbox=\box162
+\pgfnodepartsixteenbox=\box163
+\pgfnodepartfifteenbox=\box164
+\pgfnodepartfourteenbox=\box165
+\pgfnodepartthirteenbox=\box166
+\pgfnodeparttwelvebox=\box167
+\pgfnodepartelevenbox=\box168
+\pgfnodeparttenbox=\box169
+\pgfnodepartninebox=\box170
+\pgfnodeparteightbox=\box171
+\pgfnodepartsevenbox=\box172
+\pgfnodepartsixbox=\box173
+\pgfnodepartfivebox=\box174
+)))
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex
+Package babel Info: Importing basic data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count518
+)
+\@linkdim=\dimen477
+\Hy@linkcounter=\count519
+\Hy@pagecounter=\count520
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count521
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `hyperfootnotes' set `false' on input line 4040.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count522
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip21
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen478
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count523
+\Field@Width=\dimen479
+\Fld@charsize=\dimen480
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count524
+\c@Item=\count525
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\HyAnn@Count=\count526
+\Fld@listcount=\count527
+\c@bookmark@seq@number=\count528
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip169
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 212.
+
+
+Package hyperref Warning: Option `hyperfigures' has already been used,
+(hyperref)                setting the option has no effect on input line 212.
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/siunits\SIunits.sty
+Package: SIunits 2007/12/02 v1.36 Support for the International System of units
+ (MH)
+
+
+\@qskwidth=\skip170
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 46.
+\symgreek=\mathgroup14
+LaTeX Font Info:    Redeclaring math symbol \upmu on input line 51.
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/siunits\SIunits.cfg)
+Option `textstyle' provided!
+Option `squaren' provided!
+) (C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/was\icomma.sty
+Package: icomma 2002/03/10 v2.0 (WaS)
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/cancel\cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
+)
+\BKM@id=\count529
+))
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+\"New devs"@idxfile=\write7
+\openout7 = `"New devs.idx"'.
+
+
+Writing index file "New devs".idx
+)
+(C:/Users/lasca/Desktop/Cours de mathématiques/(Modèle de cours et d'exercice
+s)/environnementspersonnels.tex
+\c@numexos=\count530
+\c@compteurenumerate=\count531
+\c@inner=\count532
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2024/05/25 1.10b listings language file
+)
+\pgf@layerbox@background=\box175
+\pgf@layerboxsaved@background=\box176
+)
+(C:/Users/lasca/Desktop/Cours de mathématiques/(Modèle de cours et d'exercice
+s)/commandespersonnelles.tex
+\@brx=\box177
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarysvg.path.code.tex
+File: tikzlibrarysvg.path.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+arysvg.path.code.tex
+File: pgflibrarysvg.path.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+parser.code.tex
+File: pgfmoduleparser.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfparserdef@arg@count=\count533
+)
+\pgf@lib@svg@last@x=\dimen481
+\pgf@lib@svg@last@y=\dimen482
+\pgf@lib@svg@last@c@x=\dimen483
+\pgf@lib@svg@last@c@y=\dimen484
+\pgf@lib@svg@count=\count534
+\pgf@lib@svg@max@num=\count535
+))
+\fontpt=\dimen485
+\LineWidth=\skip171
+\CornerRadius=\skip172
+\baseliney=\skip173
+\heighty=\skip174
+\highlight@previous=\dimen486
+\highlight@current=\dimen487
+)
+\c@itemcntr=\count536
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 56
+.
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+(New devs.aux)
+\openout1 = `"New devs.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Info: Redefining \degres on input line 56.
+Package french.ldf Info: Setting StandardItemizeEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 56.
+Package french.ldf Info: Setting StandardEnumerateEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 56.
+LaTeX Info: Redefining \up on input line 56.
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count537
+\scratchdimen=\dimen488
+\scratchbox=\box178
+\nofMPsegments=\count538
+\nofMParguments=\count539
+\everyMPshowfont=\toks80
+\MPscratchCnt=\count540
+\MPscratchDim=\dimen489
+\MPnumerator=\count541
+\makeMPintoPDFobject=\count542
+\everyMPtoPDFconversion=\toks81
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.70166pt, 418.25368pt, 107.55254pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=598.14806pt
+* \paperheight=845.90042pt
+* \textwidth=484.33705pt
+* \textheight=717.86308pt
+* \oddsidemargin=56.9055pt
+* \evensidemargin=56.9055pt
+* \topmargin=21.33955pt
+* \headheight=35.56593pt
+* \headsep=21.33955pt
+* \topskip=11.0pt
+* \footskip=21.33955pt
+* \marginparwidth=103.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=19.45274pt
+* \hoffset=-72.26999pt
+* \voffset=-72.26999pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count543
+
+Package chemgreek Info: Activating mapping `upgreek' on line 56.
+
+LaTeX Info: Redefining \microtypecontext on input line 56.
+Package microtype Info: Applying patch `item' on input line 56.
+Package microtype Info: Applying patch `toc' on input line 56.
+Package microtype Info: Applying patch `eqnum' on input line 56.
+Package microtype Info: Applying patch `footnote' on input line 56.
+Package microtype Info: Applying patch `verbatim' on input line 56.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 56.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Redefining babel's language switching commands.
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+\c__nicematrix_shift_Ldots_last_row_dim=\dimen490
+\c__nicematrix_shift_exterior_Vdots_dim=\dimen491
+\c__nicematrix_innersep_middle_dim=\dimen492
+\c@tabularnotesi=\count544
+\enitdp@tabularnotes=\count545
+\c@tabularnotes*i=\count546
+\enitdp@tabularnotes*=\count547
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
+6.
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5
+6.
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+56.
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+56.
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 56.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 56.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 56.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
+
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
+
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 56
+.
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 5
+6.
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\ustmry.fd)
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-eur.cfg
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+)
+Package xypdf Info: Line width: 0.39998pt on input line 56.
+Package hyperref Info: Link coloring ON on input line 56.
+
+Option `squaren' provided! 
+ Command \squaren defined by SIunits package!
+
+LaTeX Info: Redefining \micro on input line 56.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 65.
+(New devs.toc)
+\tf@toc=\write8
+\openout8 = `"New devs.toc"'.
+
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 7
+3.
+
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
+
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 84.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 84.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 84.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 9
+9.
+(C:\Users\lasca\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+
+[1
+
+{C:/Users/lasca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/lasc
+a/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/lasca/Ap
+pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/lasca/Ap
+pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/lasca/AppDat
+a/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/lasca/AppData/L
+ocal/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+
+[2]
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 110.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <13> on input line 110.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9.09996> on input line 110.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6.5> on input line 110.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <13> not available
+(Font)              size <12> substituted on input line 110.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 110.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <13> not available
+(Font)              size <12> substituted on input line 110.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 110.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <13> not available
+(Font)              size <12> substituted on input line 110.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 110.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 110.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 110.
+
+
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 110.
+
+
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 110.
+
+
+LaTeX Font Warning: Font shape `OML/eur/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 110.
+
+
+LaTeX Font Warning: Font shape `OML/eur/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 110.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 110.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 110.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 110.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 110.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+
+[3] (New devs.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-30>
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 72557 strings out of 473898
+ 1672451 string characters out of 5726478
+ 2659246 words of memory out of 5000000
+ 94155 multiletter control sequences out of 15000+600000
+ 661452 words of font info for 231 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 105i,17n,127p,5520b,924s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/lasca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
+b><C:/Users/lasca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
+b><C:/Users/lasca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.p
+fb><C:/Users/lasca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.p
+fb><C:/Users/lasca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.p
+fb><C:/Users/lasca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pf
+b><C:/Users/lasca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb
+><C:/Users/lasca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi9.pfb>
+<C:/Users/lasca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><
+C:/Users/lasca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C
+:/Users/lasca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:
+/Users/lasca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:
+/Users/lasca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:
+/Users/lasca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:
+/Users/lasca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/
+msam10.pfb>
+Output written on "New devs.pdf" (3 pages, 264811 bytes).
+PDF statistics:
+ 164 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
+ 51885 words of extra memory for PDF output out of 61914 (max. 10000000)
+

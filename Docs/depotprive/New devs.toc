@@ -1,0 +1,6 @@
+\babel@toc {french}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {french}{}\relax 
+\thispagestyle {empty}
+\contentsline {section}{\numberline {1}Théorème « $p^aq^b$ » de Burnside}{3}{section.1}%
+\contentsline {section}{\nameref {sec:biblio}}{3}{section*.2}%
