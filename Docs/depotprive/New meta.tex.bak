@@ -1,0 +1,137 @@
+\documentclass[a4paper,11pt,twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{import}
+\import{C:/Users/lasca/Desktop/Cours de mathématiques/(Modèle de cours et d'exercices)}{preambulestandard.tex}
+\import{C:/Users/lasca/Desktop/Cours de mathématiques/(Modèle de cours et d'exercices)}{environnementspersonnels.tex}
+\import{C:/Users/lasca/Desktop/Cours de mathématiques/(Modèle de cours et d'exercices)}{commandespersonnelles.tex}
+
+\newcommand{\Dev}[2]{
+\begin{tcolorbox}[colframe=indigochinois!55!black,colback=indigochinois!5!white,title=Développement. \theme{#1},
+shadow={-1.5mm}{-1.5mm}{0mm}{fill=black,
+opacity=0.25},
+shadow={1.5mm}{-1.5mm}{0mm}{fill=blue,
+opacity=0.25}]
+#2
+\end{tcolorbox}\vspace{0.4cm}}
+
+\usepackage{refcount}
+\newcounter{itemcntr}
+\makeatletter
+\NewDocumentEnvironment{adherencedev}{m}{%
+  % #1 is the label for the environment
+  \setcounter{itemcntr}{0}%
+  % before \item, step the counter if at level 1
+  \AddToHook{cmd/item/before}[itemcount]{%
+    \ifnum\inteval{\@itemdepth+\@enumdepth}=1 \stepcounter{itemcntr}\fi
+  }%
+  \begin{itemize}[label=$\star$]%
+}{%
+  \end{itemize}%
+  % remove the hook
+  \RemoveFromHook{cmd/item/before}[itemcount]%
+  % set the label
+  \addtocounter{itemcntr}{-1}%
+  \refstepcounter{itemcntr}\label{#1}%
+}
+\makeatother
+\newcommand{\numitems}[1]{\getrefnumber{#1}}
+
+%Pour les nbdp :
+\makeatletter
+\addtolength{\skip\footins}{-9pt}
+\makeatother
+
+\newcommand{\showcorrection}{Commenter cette ligne pour faire disparaître les corrections des exercices}
+
+\sectionfont{\fontsize{13}{15}\selectfont}
+\setlength\parindent{0pt}
+\linespread{0.9}
+
+\title{\huge Un peu plus de 40 développements gouleyants... \\ pour se tenir à jour}
+\date{\today}
+\author{Louis Lascaud}
+
+\begin{document}
+
+%Commandes de dernière minute
+\makeatletter
+\let\ref\@refstar
+\makeatother
+
+\thispagestyle{empty}
+
+\maketitle
+
+\vspace{1.4 cm}
+
+\tableofcontents
+\addtocontents{toc}{\protect\thispagestyle{empty}}
+\vspace{1 cm}
+
+Cette feuille complète le documents « 40 développements gouleyants » en rajoutant des développements et en actualisant le couplage pour qu'il corresponde à l'évolution du programme pour la session en cours. Le nouveau couplage apparaît dans le tableau suivant : \url{https://louis-lascaud.github.io/l-lscd-mathematiques/Docs/depotprive/New%20couplage.xlsx} à télécharger au format Excel. \\ \vspace{0.3 cm}
+
+\begin{large}
+\gras{Statistiques} \\
+\end{large}
+
+\begin{EnumStarpar}
+\item 20 développements d'algèbre, 20 développements d'analyse
+\item Par domaines :
+\begin{center}
+\begin{small}
+\begin{tabular}{|c|c|c|c|} \hline
+théorie des groupes & 8 & topologie & 5 \\ \hline
+algèbre commutative & 3 & analyse réelle & 6 \\ \hline
+théorie de Galois & 1 & analyse fonctionnelle & 5 \\ \hline
+arithmétique & 4 & calcul différentiel & 4 \\ \hline
+algèbre linéaire & 6 & théorie de Fourier & 2 \\ \hline
+algèbre bilinéaire & 5 & analyse complexe & 3 \\ \hline
+géométrie & 4 & probabilités et stats & 4 \\ \hline
+géométrie algébrique & 3 & analyse numérique & 2 \\ \hline
+\end{tabular}
+\end{small}
+\end{center}
+\vspace{0.3 cm}
+
+\item 12 développements « mixtes » : Théorème de Lie-Kolchin, Dénombrement sur des permutations aléatoires, L'exponentielle réalise [...], Ellipsoïde de John \& Loewner, Théorème de Kakutani, Théorème de Cartan-von Neumann, Ordres moyens de fonctions arithmétiques, Théorème de Müntz, Théorème de Banach-Alaoglu, Autour de la loi zêta, Théorème de Perron-Frobenius, Méthode de Tchebychev.
+\item $r = 3, 4$ de recasage moyen dans le couplage adopté. (Nombre de leçons en \num{2026} : $68 = 34 \times 2$, soit $136$ développements à sélectionner.) Pire recasage : Théorème de Sturm (1 leçon). Meilleurs recasages : Théorème de Burnside (7 leçons), $SO(3) = PSU(2)$, théorème de Lie-Kolchin (6 leçons). Encore une fois vu le poids de certains dévs en recasages on peut tout à fait faire autrement. Typiquement, les développements sont 10, 15, 23, 29, 35 ou 40 sont dispensables.
+\item Pour prévoir l'évolution de la liste des leçons, qui peut changer d'une année sur l'autre, voici un lien vers des nouveaux développements, avec le couplage mis à jour en conséquence pour la session courante :
+\item Plusieurs développement sont liés entre eux, soit que des notions se recoupent, soit qu'ils utilisent les mêmes objets :
+\begin{EnumTriangle}
+\item 1, 18 et 38 utilisent de façon cruciale le cas d'égalité de l'inégalité triangulaire.
+\end{EnumTriangle}
+\end{EnumStarpar}
+\vspace{0.8 cm}
+
+\newpage
+
+\section{Théorème « $p^aq^b$ » de Burnside}
+
+Préambule. \\
+
+\gras{Références :} réfs. \\
+
+\gras{Recasages :} leçons. \\
+
+\Dev{Titre du dév}{Énoncé.}
+
+\gras{Dessin :} item \\
+
+\gras{Couleur :} item \\
+
+\gras{Pédagogie :} texte. \\
+
+\gras{Adhérence du développement (\numitems{dev1}) :}
+\begin{adherencedev}{dev1}
+\item Item
+\end{adherencedev}
+
+\section*{Bibliographie pratique mise à jour}
+\label{sec:biblio}
+\addcontentsline{toc}{section}{\nameref{sec:biblio}}
+
+[Bibliothèque entièrement remodifiée]
+
+\end{document}
